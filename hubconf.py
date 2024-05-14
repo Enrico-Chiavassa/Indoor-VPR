@@ -17,7 +17,7 @@ AVAILABLE_TRAINED_MODELS = {
 # the thresholds used to select soft and hard positives and in the way the images are handled during the training procedure.
 
 AVAILABLE_VARIATIONS = {
-  "eigenplaces_Resnet50_2048": ["GB1_BAI_5_10", "GB1_BAI_10_25_S"],
+  "eigenplaces_ResNet50_2048": ["GB1_BAI_5_10", "GB1_BAI_10_25_S"],
   "salad_Dinov2_8448": ["GB1_10_25", "HB1_GB1_2_5"],
 }
 
